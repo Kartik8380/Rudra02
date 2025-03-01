@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「⛦🦋 frzoen music 🦋⛦」──
+    ──「⛦🦋 KARTIK x MUSIC 🦋⛦」──
 </h2>
 
 <p align="center">
@@ -66,7 +66,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/prashantsahlot/frozenvcmusic && cd frozenvcmusic
+   git clone https://github.com/prashantsahlot/kartikvcmusic && cd Kartikvcmusic
    ```
 6. **Install Requirements**
    ```bash
