@@ -68,10 +68,10 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/RU_DRA_65"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Oye_1_king"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/RU_DRA_098"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/FRIENDSHIP_CLUB_FF"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/RU_DRA_65"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Oye_1_king"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/RU_DRA_098"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/FRIENDSHIP_CLUB_FF"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -245,10 +245,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/RU_DRA_65"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Oye_1_king"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/RU_DRA_098"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"@Oye_1_king"
             ),
         ],
 
