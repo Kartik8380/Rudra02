@@ -25,10 +25,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @BRANDRD_ROBOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "7408008545"))
+OWNER_ID = int(getenv("OWNER_ID", "7834420467"))
 
 # Define SUDO_USERS as a list
-SUDO_USERS = [7408008545]  # Add more user IDs as needed
+SUDO_USERS = [7834420467]  # Add more user IDs as needed
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -38,15 +38,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/arvind0251/Rudra02",
+    "https://github.com/arvind0251/NISHAD34",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RU_DRA_098")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RU_DRA_098")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/sellr_tg_id")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/FRIENDSHIP_CLUB_FF")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -88,10 +88,10 @@ autoclean = []
 confirmer = {}
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/f0e790de4d84d5b4dab72-bc4dcadff42362281c.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/gd0gs5.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/f0e790de4d84d5b4dab72-bc4dcadff42362281c.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/gd0gs5.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/f0e790de4d84d5b4dab72-bc4dcadff42362281c.jpg"
 STATS_IMG_URL = "https://graph.org/file/f0e790de4d84d5b4dab72-bc4dcadff42362281c.jpg"
