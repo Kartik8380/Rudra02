@@ -42,7 +42,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/arvind0251/NISHAD34/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/kartiknishad36/NISHAD34/blob/master/sample.env)
 ---
 
 ### 🔧 Quick Setup
